@@ -7,10 +7,10 @@ class project_forms(forms.ModelForm):
 
         model=Progect
         fields = ['title', 'description', 'category']
-        winreg= {
+        widgets= {
             'title':forms.TextInput(attrs=attrs),
             'description':forms.Textarea(attrs=attrs),
-            'category':forms.Select(attrs=attrs)
+            'category':forms.Select(attrs=attrs),
         }
 
 class ProjectUpdateForm(forms.ModelForm):
