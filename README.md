@@ -2,7 +2,7 @@
 # Django Project Management
 
 <a href="#django_project_managment" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foctobits.io%2Fblog%2Fdigital-transformation%2Flist-of-it-project-management-methodologies%2F&psig=AOvVaw3qwjWLQqJWE8bFfmIetvaa&ust=1746886777111000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIicycrKlo0DFQAAAAAdAAAAABAE" height="40" alt="facebook logo"  />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpm360consulting.ie%2Fproject-management-what-is-project-management%2F&psig=AOvVaw3qwjWLQqJWE8bFfmIetvaa&ust=1746886777111000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIicycrKlo0DFQAAAAAdAAAAABAJ" height="40" alt="facebook logo"  />
   </a>
 
 ## 📚 About the Project
