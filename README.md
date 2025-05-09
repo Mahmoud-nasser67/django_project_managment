@@ -50,15 +50,9 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-## 🖼️ Adding Project Images
-Add your project screenshots to the `images/` directory and update the path in this README to display them correctly.
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests for new features, bug fixes, or improvements.
-
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 🌐 Contact
-For any inquiries, please reach out to me on [LinkedIn](https://www.linkedin.com) or [GitHub](https://github.com/your-username).
+For any inquiries, please reach out to me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/mahmoud-nasser-26ab282a5/)) or [GitHub](https://github.com/your-username).
 
