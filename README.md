@@ -2,7 +2,7 @@
 # Django Project Management
 
 <a href="#django_project_managment" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpm360consulting.ie%2Fproject-management-what-is-project-management%2F&psig=AOvVaw3qwjWLQqJWE8bFfmIetvaa&ust=1746886777111000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIicycrKlo0DFQAAAAAdAAAAABAJ" height="40" alt="facebook logo"  />
+    <img src="https://media-hosting.imagekit.io/2058a2a10f114b2e/diploma-of-project-management-2x.jpg?Expires=1841409182&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Op9y45CTx9OLWZnW~aCWPCpxKunfBKueoT2RORZ81IaIf14D2OSB0klFicExEjcRGQl4D0HPteJwBAfahOpRD3FUXxoNXIuXy8mZEAr8Jm932LfigkxsGd1fHSbX1t3RJKphjTM9xgP8FzMX1CChc8kivMRBkVGWqMwjGDf~e5YZhIpRc9xIhD09x4jfhpKZO9OtMnpT5R48KJdXrpPsr0OtCoE9544nWKiSGEu6BwvssfmMUXmqTREC6yaBB32V718-IN3ewhAz4gZHEGf6CZbtJvOxY4eT~Qc~BchAk-UjFLXJq8Vym971zNsYsELlOh1skvMkZr1jEgPt7M0Z0A__" height="40" alt="facebook logo"  />
   </a>
 
 ## 📚 About the Project
