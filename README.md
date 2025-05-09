@@ -1,7 +1,9 @@
 ﻿# django_project_managment
 # Django Project Management
 
-![Project Screenshot](./images/project_screenshot.png)
+<a href="# Django Project Management" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+  </a>
 
 ## 📚 About the Project
 This is a comprehensive project management application built with Django, designed to help teams collaborate efficiently and manage tasks with ease. It includes user authentication, project creation, task management, and real-time updates.
